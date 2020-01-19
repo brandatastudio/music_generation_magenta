@@ -1,0 +1,5 @@
+
+
+conda install -c conda-forge tensorflow
+sudo apt-get install build-essential libasound2-dev libjack-dev portaudio19-dev
+pip install magenta
